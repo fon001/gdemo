@@ -1,1 +1,1 @@
-"Welcome to my test page !!!!!!!!!"
+echo "Welcome to my test page !!!!!!!!!"
